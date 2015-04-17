@@ -4,7 +4,7 @@
     "homepage": "http://antenna.io/demo/jquery-bar-rating/examples/",
     "repository": {
       "type": "git",
-      "url": "git://github.com/antennaio/jquery-bar-rating.git#401ebb93f90e50c4d34a46e9b43ae27219d73d27"
+      "url": "git://github.com/manpreetssethi/jquery-bar-rating.git#401ebb93f90e50c4d34a46e9b43ae27219d73d27"
   },
   "authors": [
     "Antenna.io <antenna@antenna.io>"
